@@ -105,3 +105,17 @@ Open any built `index.html` in a browser to preview it (click to hear the score;
 ## License
 
 MIT
+
+
+## Glossary
+
+| Term | Definition |
+|------|------------|
+| **Aggregate** | Cluster of domain entities treated as one unit |
+| **Repository** | Data access abstraction — Spring Data interface |
+| **DTO** | Data Transfer Object — shape for API I/O |
+| **Entity** | Persistent domain object (JPA `@Entity`) |
+| **Service** | Business logic layer |
+| **Controller** | HTTP endpoint handler |
+| **Persistence** | Database/storage concerns |
+| **Projection** | Optimized read model for specific queries |
